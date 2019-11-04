@@ -1,9 +1,9 @@
 LuckyBit Core staging tree 0.12.1
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/luckybitcoin/luckybit.svg?branch=master)](https://travis-ci.org/luckybitcoin/luckybit) `develop:` [![Build Status](https://travis-ci.org/luckybitcoin/luckybit.svg?branch=develop)](https://travis-ci.org/luckybitcoin/luckybit/branches)
+`master:` [![Build Status](https://travis-ci.org/luckycommunity/luckycore.svg?branch=master)](https://travis-ci.org/luckycommunity/luckycore) `develop:` [![Build Status](https://travis-ci.org/luckycommunity/luckycore.svg?branch=develop)](https://travis-ci.org/luckycommunity/luckycore/branches)
 
-https://www.luckybit.network
+https://www.luckybitcoin.org
 
 
 What is LuckyBit?
